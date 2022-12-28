@@ -1,0 +1,13 @@
+{
+	"type": "satisfacory.miner",
+	"ingredients":[
+		{
+			"item": "satisfactory:aluminium_ore"
+		}
+	],
+	
+	"output":
+	{
+		"item": "satisfactory:aluminium_ore"
+	}
+}
