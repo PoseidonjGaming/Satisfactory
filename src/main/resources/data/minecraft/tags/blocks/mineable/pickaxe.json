@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "satisfactory:copper_ore",
+    "satisfactory:aluminium_ore",
+    "satisfactory:caterium_ore"
+
+  ]
+}

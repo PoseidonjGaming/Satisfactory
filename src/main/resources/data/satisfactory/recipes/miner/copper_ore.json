@@ -1,0 +1,11 @@
+{
+	"type": "satisfactory:miner",
+	"input": 
+	{
+		"item": "satisfactory:copper_ore"
+	},
+	"output": 
+	{
+		"item": "satisfactory:copper_ore"
+	}
+}
